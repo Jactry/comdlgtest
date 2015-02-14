@@ -1,0 +1,4 @@
+#define IDC_BLACK 1000
+#define IDC_RECT 1008
+#define IDM_APP_ABOUT 40001
+#define IDC_MAIN_BUTTON 101
